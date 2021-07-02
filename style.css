@@ -1,0 +1,49 @@
+    .center
+    {
+    text-align: center;
+    list-style-position: inside;
+    }
+    ol.center li
+    {
+    text-align: left;
+    margin-left: 43%;
+    }
+
+    form{
+        text-align: center;
+    }
+
+    ul{
+        text-align: center;
+        list-style: inside;
+    }
+
+    body {
+        color:bisque;
+        background-color:black
+    }
+
+    hr {
+        border-style: dotted none none;
+        border-color: gray;
+        
+        border-width: 5px;
+        width: 2.5%;
+        background-color:black
+    }
+
+    h1{
+        color:mediumspringgreen;
+    }
+
+    h3 {
+        color:mediumspringgreen;
+    }
+
+    a:hover{
+        background-color: white;
+    }
+    
+    img:hover{
+        background-color: greenyellow;
+    }
